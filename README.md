@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/mercurio236">
     <img src="https://github-readme-stats.vercel.app/api?username=mercurio236&show_icons=trueshow_icons=true&theme=dark&count_private=true" />
-    <img width="400" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercurio236&layout=compact&langs_count=7&theme=dark"/>
+    <img width="300" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercurio236&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
