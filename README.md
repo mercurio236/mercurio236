@@ -1,16 +1,11 @@
 ### Olá, eu sou Arley Souto 👋
 
-<div>
+## 🌟 GitHub Stats 🌟
+<div align="center">
   <a href="https://github.com/mercurio236">
-    <img src="https://github-readme-stats.vercel.app/api?username=mercurio236&show_icons=trueshow_icons=true&theme=dark&count_private=true" />
-    <img width="300" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercurio236&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arley-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Arley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Arley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mercurio236&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=mercurio236&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mercurio236&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
