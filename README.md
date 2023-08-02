@@ -1,4 +1,12 @@
-### Olá, eu sou Arley Souto 👋
+### Hi, I'm Arley Souto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+
+I’m a Software Engineer. Currently I'm working as a Web and Mobile.🚀
+
+#### My current tools 
+📲 Front-end Mobile with React Native  
+🌎 Front-end Web with Reactjs   
+🛠️ Typescript  
+🧰 And more...  
 
 ## 🌟 GitHub Stats 🌟
 <div align="center">
